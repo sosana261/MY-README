@@ -1,5 +1,7 @@
 This file is a simplified guide that explains the basic concepts of "Git" and "GitHub" in a clear and structured way. 
 
+This is my updated README file .    
+
 - What is Git?
 
     Git is a version control system that helps you track changes in your code and work with others more easily. Unlike other systems that save only the changes (called diffs), Git takes a full snapshot of your project every time you save (commit).
